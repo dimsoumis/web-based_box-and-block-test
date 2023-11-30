@@ -7,4 +7,4 @@ Also there is the need of a relational database called bbt, with a user called b
 
 Using the admin folder, allows users to see statistics and results saved in the database from all the users of the application.
 
-The application can also run without the use of a hosting server, lacking the capability of saving scores. To do that all php code must be removed, and all php files should be renamed.
+The application can also run without the use of a hosting server, lacking the capability of saving scores. To do that all php code must be removed, all php files should be either renamed or deleted and simple modifications must happen to some of the files. 
